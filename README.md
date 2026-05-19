@@ -32,8 +32,9 @@ I am continuously learning and expanding my knowledge across all the languages b
 
 ## ⚙️ Interests & Hobbies
 
-* **Tinkering:** I enjoy hardware hacking, exploring system internals, and side projects.
-* **Photography & Cooking:** Outside of tech, I spend my time behind a camera or experimenting with new recipes.
+* **Systems & ML:** Working toward roles in sysadmin and ML engineering by exploring network configurations, system infrastructure, and LLM implementations, also potentionally fine tuning my own models (the future)
+* **Tinkering:** I enjoy tinkeringg, exploring system internals, and side projects. Like my home server project which I am currently working on.
+* **Photography, Cooking & Gaming:** Outside of tech, I spend my time behind a camera, experimenting with new recipes, doing a 2 week Minecraft phase with my friends.
 * **SpongeBob Fan:** A personal favorite of mine, which inspired my profile picture border.
 
 ---
