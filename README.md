@@ -20,7 +20,7 @@ I am continuously learning and expanding my knowledge across all the languages b
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18" /> / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" height="18" /> **HTML / CSS**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" height="18" /> **C#**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="18" height="18" /> **Haskell**
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" height="18" /> **Assembly**
+* <img src="https://raw.githubusercontent.com/fortawesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="18" height="18" /> **Assembly**
 
 ---
 
