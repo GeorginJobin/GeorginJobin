@@ -6,8 +6,6 @@ I am a Computer Science student at **TU Dublin**, moving into my second year. I 
 
 ---
 
-<br>
-
 ## 💻 Technical Skills
 
 I am continuously learning and expanding my knowledge across all the languages below. However, I am proficient enough in my primary languages to build functional applications and programs.
@@ -17,7 +15,7 @@ I am continuously learning and expanding my knowledge across all the languages b
 * **Python**
 * **Java**
 
-<br>
+
 
 ### Additional Languages & Tools
 * **JavaScript**
@@ -28,8 +26,6 @@ I am continuously learning and expanding my knowledge across all the languages b
 
 ---
 
-<br>
-
 ## ⚙️ Interests & Hobbies
 
 * **Systems & ML:** Working toward roles in sysadmin and ML engineering by exploring network configurations, system infrastructure, and LLM implementations, also potentionally fine tuning my own models (the future)
@@ -39,7 +35,6 @@ I am continuously learning and expanding my knowledge across all the languages b
 
 ---
 
-<br>
 
 ## 📬 Contact & Connect
 
@@ -47,5 +42,3 @@ Feel free to reach out if you would like to discuss projects, technology, or aca
 
 * 📧 **Email:** [georginirl@gmail.com](mailto:georginirl@gmail.com)
 * 💼 **LinkedIn:** [Georgin Jobin](https://linkedin.com)
-
-<br>
