@@ -2,7 +2,7 @@
 
 <br>
 
-I am a Computer Science student at **TU Dublin**, moving into my second year. I have a strong interest in software development, problem-solving, and general technology tinkering.
+I am a Computer Science student at **TU Dublin**, who has just started his second year. I have a strong interest in software development, problem-solving, and general technology tinkering.
 
 ---
 
